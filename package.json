@@ -1,0 +1,15 @@
+{
+  "name": "ExpTest",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "exptest.js",
+  "dependencies": {
+    "express": "^4.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "exptest.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
